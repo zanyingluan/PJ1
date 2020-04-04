@@ -1,10 +1,15 @@
 #这是我的PJ1文档
 姓名：张明
 学号：18300200008
---------------
+
+-------------------------
+
 Github地址：https://github.com/zanyingluan/PJ1.git
-Github Pages地址：https:
---------------
+Github page地址：https://github.com/zanyingluan/PJ1.git
+
+
+
+--------------------------
 #1.项目完成情况
 	Grade.pdf上所有的功能都成功实现
 	html与css文档都标记了注释 按照布局分别进行样式的修改 逻辑很清晰 可以根据注释快速找到对应部分
@@ -17,7 +22,7 @@ Github Pages地址：https:
 	解决方法：将所有图片都设置为了div的background-img，利用其cover/contain的性质完成图片对容器的自适应
 
 具体代码如图:
-![](images/bonus1-code.png)
+![](images/bonus/bonus1-code.png)
 
 2.2响应式布局 
 	完成情况：具体实现在本PJ的主页与浏览页的图片展示部分
@@ -27,15 +32,15 @@ Github Pages地址：https:
 
 具体代码如图：
 
-![](images/bonus2-code-grid.png)
+![](images/bonus/bonus2-code-grid.png)
 
-![](images/bonus2-code-float1.png)
-![](images/bonus2-code-float2.png)
+![](images/bonus/bonus2-code-float1.png)
+![](images/bonus/bonus2-code-float2.png)
 
 
 具体效果如图：
-![](images/bonus2-grid-pc.png)
-![](images/bonus2-grid-mobile.png)
+![](images/bonus/bonus2-grid-pc.png)
+![](images/bonus/bonus2-grid-mobile.png)
 		
 	
 2.3界面美观：比较美观
