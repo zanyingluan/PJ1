@@ -5,7 +5,7 @@
 -------------------------
 
 Github地址：https://github.com/zanyingluan/PJ1.git
-Github page地址：https://github.com/zanyingluan/PJ1.git
+Github page地址：https://zanyingluan.github.io/PJ1/.
 
 
 
