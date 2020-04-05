@@ -32,6 +32,11 @@
     size:50px;
     position: center;
 }
+
+.aside .search-icon{
+    text-align: center;
+}
+
 /***搜索框***/
 .search-by-title{
     border: darkgray 2px solid;
