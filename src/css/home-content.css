@@ -9,7 +9,7 @@
     border-radius: 10px;
     margin: auto;
     display: block;
-    background-image:url(../../images/index_picture/main.jpg);/*将图片设置为background用以裁剪*/
+    background-image:url(../../images/home_picture/main.jpg);/*将图片设置为background用以裁剪*/
     padding-top: 65%; /*用宽高比使图片自适应*/
     background-repeat: no-repeat;
     background-size: cover;
@@ -47,25 +47,25 @@
     height:100%;
 }
 #picture1{
-    background-image:url(../../images/index_picture/picture1.jpg)
+    background-image:url(../../images/home_picture/picture1.jpg)
 }  #picture2{
-    background-image:url(../../images/index_picture/picture2.jpg)
+    background-image:url(../../images/home_picture/picture2.jpg)
 }  #picture3{
-    background-image:url(../../images/index_picture/picture3.jpg)
+    background-image:url(../../images/home_picture/picture3.jpg)
 }  #picture4{
-    background-image:url(../../images/index_picture/picture4.jpg)
+    background-image:url(../../images/home_picture/picture4.jpg)
 }  #picture5{
-    background-image:url(../../images/index_picture/picture5.jpg)
+    background-image:url(../../images/home_picture/picture5.jpg)
 }  #picture6{
-    background-image:url(../../images/index_picture/picture6.jpg)
+    background-image:url(../../images/home_picture/picture6.jpg)
 }  #picture7{
-    background-image:url(../../images/index_picture/picture7.jpg)
+    background-image:url(../../images/home_picture/picture7.jpg)
 }  #picture8{
-    background-image:url(../../images/index_picture/picture8.jpg)
+    background-image:url(../../images/home_picture/picture8.jpg)
 }  #picture9{
-    background-image:url(../../images/index_picture/picture9.jpg)
+    background-image:url(../../images/home_picture/picture9.jpg)
 }  #picture10{
-    background-image:url(../../images/index_picture/picture10.jpg)
+    background-image:url(../../images/home_picture/picture10.jpg)
 }
 .picture_introduce{
     display: block;

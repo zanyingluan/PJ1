@@ -114,15 +114,20 @@
     align-content: center;
     width: 100%;
 }
-.filter select{
+.filter label{
     font-weight: lighter;
-    font-size: small;
+    font-size: medium;
     position: relative;
-    margin-left: 4%;
+    margin-left: 5%;
     border-radius: 5px;
-    width: 40%;
+    width: 100%;
     z-index: 1;
 }
+
+.filter select{
+    width: 200px
+}
+
 .filter option{
     font-size: small;
     font-weight: normal;
